@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yann-rzd&label=Profile%20views&color=0e75b6&style=flat" alt="yann-rzd" /> </p>
 
-- 🔭 I’m currently working on **Dailympact, a SwiftUI app**
+- 🔭 I’m currently working on **PurrFinder, a SwiftUI app**
 
 - 🌱 I’m currently learning **SwiftUI**
 
