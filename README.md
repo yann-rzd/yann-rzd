@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **yann.rouzaud@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Dxio5G-us3q1Z5OgqJo4t7gDdgEA3QGu/view?usp=sharing](https://drive.google.com/file/d/1Dxio5G-us3q1Z5OgqJo4t7gDdgEA3QGu/view?usp=sharing)
+- 📄 Know about my [experiences](https://drive.google.com/file/d/1dkOapZN0RYJJtGW8-FsfZmDihCsY5Ft2/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
