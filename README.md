@@ -1,4 +1,4 @@
-![MasterHead](https://api.conceptinfoway.net/wp-content/uploads/2017/06/iOS_app_development-1.jpg)
+![MasterHead](https://mobiosolutions.com/wp-content/uploads/2020/01/IOS.png)
 <h1 align="center">Hi 👋, I'm Yann</h1>
 <h3 align="center">A passionate iOS developer from Paris</h3>
 <img align="right" alt="Coding", width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
